@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  ingress:
+  - created: 2019-04-18T13:53:55.410858926Z
+    description: OpenStack-Helm Ingress Controller
+    digest: 88821dc781a186192d14d36c092d8dc4b11cd06a039876cc56a2355ec557c589
+    home: https://github.com/kubernetes/ingress
+    maintainers:
+    - name: OpenStack-Helm Authors
+    name: ingress
+    sources:
+    - https://github.com/kubernetes/ingress
+    - https://git.openstack.org/cgit/openstack/openstack-helm
+    urls:
+    - https://alexgrud.github.io/helm_repo/ingress-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-04-18T13:53:55.407168148Z
